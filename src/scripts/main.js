@@ -1,4 +1,4 @@
-'use strict';
+git push origin develop'use strict';
 
 window.addEventListener('hashchange', () => {
   if (window.location.hash === '#menu') {
